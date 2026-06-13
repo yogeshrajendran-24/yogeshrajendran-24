@@ -18,7 +18,7 @@
 
 ```python
 YogeshRajendran:
-    location    = "Abu Dhabi, UAE"
+    location    = "Dubai, UAE"
     degree      = "B.Tech in Information Technology — Anna University (CGPA: 7.98)"
     role        = "Junior DevOps Engineer"
 
